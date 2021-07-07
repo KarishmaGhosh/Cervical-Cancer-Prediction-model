@@ -1,0 +1,29 @@
+# Python project: Early Prediction of Cervical Cancer Using Machine Learning algorithms
+
+
+# Abstract
+In 2018 an estimated 570,000 women got diagnosed with cervical cancer. Around 311,000 women lost their lives to cervical cancer. An early diagnosis of the disease can greatly reduce the number of deaths per annum. It has been reduced by 74% between 1955 to 1992. The purpose of the proposed model is to correctly identify the presence of Cervical cancer in an individual using Machine learning (ML) algorithms. This project is in the domain of data science. This model will be made using XGBClassifier which will be imported from the XGBoost library to build a model that accurately diagnoses a patient for Cervical cancer. Dataset along with the necessary libraries will be imported, perform data analysis and visualization to get features and labels, scale the features, build an XGBClassifier and evaluate our trained model. To classify PD people from healthy people speech signal processing is done through ML algorithms.
+
+# Libraries used
+The various python libraries used for the project are : numpy, scikit-learn, matplotlib, pandas, xgboost.
+
+# Timeline: 
+Day 1-2  : Understand about Cervical cancer and study-related models 
+Day 3-4  : Import the necessary Libraries and Datasets
+Day 5-6  : Perform Analysis of the dataset
+Day 7-8  : Data Visualization
+Day 9-10 : Data preparation and Model Training
+Day 11-12 : Study about XG-Boost
+Day 13-14 : Train and Evaluate XG-Boost Algorithm
+
+# Featured to be learned:
+Understand the theory of XGBoost and other machine learning algorithms. 
+
+# Motivation
+As I am from the biosciences department I wish to build a model related to the same field. I had also done a course on movement neuroscience so this project is the implementation of python to the biological concepts that are already known to me. I have also been learning ML during this vacation so this project is the perfect amalgamation of all the different courses I have taken so far.
+
+# References
+https://www.coursera.org/learn/machine-learning-with-python
+Chen, T., & Guestrin, C. (2016). XGBoost. Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining - KDD ’16. doi:10.1145/2939672.2939785
+https://www.youtube.com/watch?v=GrJP9FLV3FE
+
