@@ -1,5 +1,5 @@
 # Cervical-Cancer-Prediction-Model
-A Machine learning model for accurately diagnosing a patient for Parkinson's Disease
+A Machine learning model for accurately diagnosing a patient for Cervical Cancer
 
 # Abstract
 
