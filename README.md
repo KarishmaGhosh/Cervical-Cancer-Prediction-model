@@ -13,6 +13,15 @@ Dataset was obtained from  UCI Machine Learning Repository.
 
 The various python libraries used for the project are : numpy, scikit-learn, matplotlib, pandas, xgboost.
 
+# Task performed
+
+Understand the about Parkinson’s Disease and study related models 
+Import the necessary Libraries and Datasets
+Perform Analysis of the dataset
+Data Visualization
+Data preparation and Model Training
+Study about XG-Boost
+Train and Evaluate XG-Boost Algorithm
 
 # References
 
