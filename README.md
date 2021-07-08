@@ -15,7 +15,7 @@ The various python libraries used for the project are : numpy, scikit-learn, mat
 
 # Task performed
 
-Understand the about Parkinson’s Disease and study related models 
+Understand the about Cervical Cancer and study related models 
 Import the necessary Libraries and Datasets
 Perform Analysis of the dataset
 Data Visualization
